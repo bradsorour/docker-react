@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-SETUP ![Single Container Setup](https://github.com/bradsorour/docker-react/blob/master/images/setup.png)
+### Single Container Setup
+
+![Single Container Setup](https://github.com/bradsorour/docker-react/blob/master/images/single-continer-setup.png)
 
 ## Available Scripts
 
