@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Single Container Setup
 
-![Single Container Setup](https://github.com/bradsorour/docker-react/blob/master/images/single-continer-setup.png)
+![Single Container Setup](https://github.com/bradsorour/docker-react/blob/master/images/single-container-setup.png)
 
 ## Available Scripts
 
